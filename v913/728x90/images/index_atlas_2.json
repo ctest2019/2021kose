@@ -1,0 +1,163 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":830,"y":0,"w":622,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":622,"h":182},
+	"sourceSize": {"w":622,"h":182}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":1524,"y":374,"w":518,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":518,"h":71},
+	"sourceSize": {"w":518,"h":71}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":1180,"y":599,"w":236,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":111},
+	"sourceSize": {"w":236,"h":111}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":830,"y":525,"w":585,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":585,"h":71},
+	"sourceSize": {"w":585,"h":71}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":1417,"y":525,"w":545,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":545,"h":72},
+	"sourceSize": {"w":545,"h":72}
+},
+"Group2":
+{
+	"frame": {"x":830,"y":184,"w":289,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":289},
+	"sourceSize": {"w":289,"h":289}
+},
+"Layer1copy":
+{
+	"frame": {"x":1792,"y":0,"w":216,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":204},
+	"sourceSize": {"w":216,"h":204}
+},
+"VectorSmartObject":
+{
+	"frame": {"x":1851,"y":206,"w":138,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+	"sourceSize": {"w":138,"h":138}
+},
+"arr":
+{
+	"frame": {"x":1851,"y":346,"w":15,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":19},
+	"sourceSize": {"w":15,"h":19}
+},
+"bg":
+{
+	"frame": {"x":1454,"y":0,"w":336,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":280},
+	"sourceSize": {"w":336,"h":280}
+},
+"btn":
+{
+	"frame": {"x":1524,"y":447,"w":319,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":319,"h":65},
+	"sourceSize": {"w":319,"h":65}
+},
+"btnsDropShadow":
+{
+	"frame": {"x":1121,"y":374,"w":401,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":401,"h":149},
+	"sourceSize": {"w":401,"h":149}
+},
+"logocopy2":
+{
+	"frame": {"x":830,"y":475,"w":97,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":34},
+	"sourceSize": {"w":97,"h":34}
+},
+"優先考慮這張_20190423_20":
+{
+	"frame": {"x":1121,"y":282,"w":728,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":90},
+	"sourceSize": {"w":728,"h":90}
+},
+"框":
+{
+	"frame": {"x":0,"y":0,"w":828,"h":752},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":828,"h":752},
+	"sourceSize": {"w":828,"h":752}
+},
+"泡泡1":
+{
+	"frame": {"x":929,"y":475,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+},
+"泡泡2":
+{
+	"frame": {"x":972,"y":475,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+},
+"泡泡3":
+{
+	"frame": {"x":1015,"y":475,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+},
+"高絲週年慶":
+{
+	"frame": {"x":830,"y":598,"w":348,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":92},
+	"sourceSize": {"w":348,"h":92}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.8.42666",
+	"image": "index_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

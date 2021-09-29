@@ -633,18 +633,18 @@ if (reversed == null) { reversed = false; }
 	this.instance_12.alpha = 0;
 	this.instance_12._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_12).wait(64).to({_off:false},0).to({alpha:1},10).wait(95).to({scaleX:1,scaleY:1,x:414.1,y:376},0).to({alpha:0},10).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_12).wait(64).to({_off:false},0).to({alpha:1},10).wait(95).to({alpha:0},10).wait(1));
 
 	// _能量小電瓶
 	this.instance_13 = new lib.能量小電瓶_1();
-	this.instance_13.setTransform(93.45,75.3,0.7401,0.7398,0,0,0,125.5,29.9);
+	this.instance_13.setTransform(87.45,75.3,0.7401,0.7398,0,0,0,125.5,29.9);
 	this.instance_13.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_13).to({regX:126.2,regY:30,scaleX:0.5787,scaleY:0.5785,x:93.5,y:75.35,alpha:1},14,cjs.Ease.cubicInOut).to({_off:true},66).wait(100));
+	this.timeline.addTween(cjs.Tween.get(this.instance_13).to({regX:126.2,regY:30,scaleX:0.5787,scaleY:0.5785,x:87.5,y:75.35,alpha:1},14,cjs.Ease.cubicInOut).to({_off:true},66).wait(100));
 
 	// 搶先日本上市
 	this.instance_14 = new lib.搶先日本上市();
-	this.instance_14.setTransform(79.8,104.95,0.472,0.472,0,0,0,101.7,15.7);
+	this.instance_14.setTransform(73.8,104.95,0.472,0.472,0,0,0,101.7,15.7);
 	this.instance_14.alpha = 0;
 	this.instance_14._off = true;
 
@@ -652,15 +652,15 @@ if (reversed == null) { reversed = false; }
 
 	// Rectangle_1
 	this.instance_15 = new lib.Rectangle1_1();
-	this.instance_15.setTransform(104.5,113.15,0.0426,0.6234,0,0,0,167.7,31.9);
+	this.instance_15.setTransform(98.5,113.15,0.0426,0.6234,0,0,0,167.7,31.9);
 	this.instance_15.alpha = 0;
 	this.instance_15._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_15).wait(4).to({_off:false},0).to({regX:161.7,scaleX:0.6224,x:104.55,alpha:1},20,cjs.Ease.cubicInOut).to({_off:true},56).wait(100));
+	this.timeline.addTween(cjs.Tween.get(this.instance_15).wait(4).to({_off:false},0).to({regX:161.7,scaleX:0.6224,x:98.55,alpha:1},20,cjs.Ease.cubicInOut).to({_off:true},56).wait(100));
 
 	// 雪肌精漾活_黑酵母精萃
 	this.instance_16 = new lib.雪肌精漾活黑酵母精萃_1();
-	this.instance_16.setTransform(99.75,207.6,0.589,0.5891,0,0,0,153.8,82.4);
+	this.instance_16.setTransform(93.75,207.6,0.589,0.5891,0,0,0,153.8,82.4);
 	this.instance_16.alpha = 0;
 	this.instance_16._off = true;
 
@@ -675,7 +675,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(150,125,186,155);
+p.nominalBounds = new cjs.Rectangle(144.2,125,155.8,125);
 // library properties:
 lib.properties = {
 	id: '6FC4473BA3DC4051B586FA688C88D7CE',
@@ -685,7 +685,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1632831991618", id:"index_atlas_1"}
+		{src:"images/index_atlas_1.png?1632902564573", id:"index_atlas_1"}
 	],
 	preloads: []
 };

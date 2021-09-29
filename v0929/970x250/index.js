@@ -27,14 +27,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_2 = function() {
+(lib.CachedBmp_8 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_1 = function() {
+(lib.CachedBmp_7 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -397,7 +397,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_2();
+	this.instance = new lib.CachedBmp_8();
 	this.instance.setTransform(-0.05,-0.5,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -461,7 +461,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_1();
+	this.instance = new lib.CachedBmp_7();
 	this.instance.setTransform(0.3,0.35,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -600,16 +600,16 @@ if (reversed == null) { reversed = false; }
 
 	// arr
 	this.instance_8 = new lib.Tween9("synched",0);
-	this.instance_8.setTransform(465.1,180.45,0.7593,0.7593,0,0,0,0.1,0.2);
+	this.instance_8.setTransform(584.1,180.45,0.7593,0.7593,0,0,0,0.1,0.2);
 	this.instance_8.alpha = 0;
 	this.instance_8._off = true;
 
 	this.instance_9 = new lib.Tween10("synched",0);
-	this.instance_9.setTransform(465.1,180.45,0.7593,0.7593,0,0,0,0.1,0.2);
+	this.instance_9.setTransform(584.1,180.45,0.7593,0.7593,0,0,0,0.1,0.2);
 	this.instance_9._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(89).to({_off:false},0).to({_off:true,alpha:1},10).wait(81));
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(89).to({_off:false},10).to({regX:0,x:465},10).to({regX:0.1,x:465.1},10).to({regX:0,x:465},10).to({regX:0.1,x:465.1},10).to({regX:0,x:465},10).to({regX:0.1,x:465.1},10).to({regX:0,x:465},10).to({regX:0.1,x:465.1,alpha:0},10).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(89).to({_off:false},10).to({regX:0,x:574},10).to({regX:0.1,x:584.1},10).to({regX:0,x:574},10).to({regX:0.1,x:584.1},10).to({regX:0,x:574},10).to({regX:0.1,x:584.1},10).to({regX:0,x:574},10).to({regX:0.1,x:578.1,alpha:0},10).wait(1));
 
 	// 免費體驗再抽好禮
 	this.instance_10 = new lib.免費體驗再抽好禮();
@@ -685,7 +685,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1632877209815", id:"index_atlas_1"}
+		{src:"images/index_atlas_1.png?1632878453507", id:"index_atlas_1"}
 	],
 	preloads: []
 };
